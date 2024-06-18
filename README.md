@@ -1,25 +1,3 @@
----
-resources:
-  - name: donations
-    path: donations.csv
-    schema:
-      fields:
-        - name: disbursed
-          type: date
-        - name: via
-          type: string
-        - name: cur
-          type: string
-        - name: amount
-          type: number
-        - name: value
-          type: string
-        - name: recipient
-          type: string
-        - name: purpose
-          type: string
----
-
 # Jaan Tallinn philanthropic donations
 
 Interesting as a big funder of Effective Altruism and especially AI existential risk.
